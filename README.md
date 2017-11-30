@@ -22,8 +22,8 @@ The component has both iOS and Android support.
 |**`alwaysShowControls`**|Boolean|Allows to control whether the bars and controls are always visible or whether they fade away to show the photo full.|`false`|
 |**`displayActionButton`**|Boolean|Show action button to allow sharing, copying, etc.|`false`|
 |**`displayNavArrows`**|Boolean|Whether to display left and right nav arrows on bottom toolbar.|`false`|
-|**`displayStatusBar`**|Boolean|Whether to display the OS Status Bar.|`true`|
-|**`displayTopBar`**|Boolean|Whether to display top bar.|`false`|
+|**`alwaysDisplayStatusBar`**|Boolean|Whether to display the OS Status Bar.|`false`|
+|**`displayTopBar`**|Boolean|Whether to display top bar.|`true`|
 |**`enableGrid`**|Boolean|Whether to allow the viewing of all the photo thumbnails on a grid.|`true`|
 |**`startOnGrid`**|Boolean|Whether to start on the grid of thumbnails instead of the first photo.|`false`|
 |**`displaySelectionButtons`**|Boolean|Whether selection buttons are shown on each image.|`false`|
@@ -36,6 +36,7 @@ The component has both iOS and Android support.
 |**`delayPhotoLongPress`**|Number|The long press delay in `ms`.|`1000`|
 |**`square`**|Boolean|Displays the thumbnails as squares(same width, height).|`false`|
 |**`gridOffset`**|Number|Offset the width of the grid from the screen width.|`0`|
+|**`customTitle`**|Function|Custom title in full screen mode.|`(index, rowCount) => { return '' }`|
 
 ### Media Object
 
