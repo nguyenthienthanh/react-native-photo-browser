@@ -5,6 +5,10 @@
 	};
 	objectVersion = 46;
 	objects = {
+<<<<<<< HEAD
+=======
+
+>>>>>>> 10ce715f3b6f312fa42dd9529bfff682a6bb8ca4
 /* Begin PBXBuildFile section */
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
@@ -710,7 +714,11 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+<<<<<<< HEAD
 				LastUpgradeCheck = 610;
+=======
+				LastUpgradeCheck = 0610;
+>>>>>>> 10ce715f3b6f312fa42dd9529bfff682a6bb8ca4
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -1446,6 +1454,7 @@
 			};
 			name = Release;
 		};
+<<<<<<< HEAD
 		65B94593A4E74BB6888EDF9C /* Staging */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1678,6 +1687,8 @@
 			};
 			name = "Lan";
 		};
+=======
+>>>>>>> 10ce715f3b6f312fa42dd9529bfff682a6bb8ca4
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1686,8 +1697,11 @@
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
 				00E356F71AD99517003FC87E /* Release */,
+<<<<<<< HEAD
 				65B94593A4E74BB6888EDF9C /* Staging */,
 				3B668B4C7DBE4BD4946DE827 /* Lan */,
+=======
+>>>>>>> 10ce715f3b6f312fa42dd9529bfff682a6bb8ca4
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1697,8 +1711,11 @@
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
 				13B07F951A680F5B00A75B9A /* Release */,
+<<<<<<< HEAD
 				2246CC1395F841E087B7A54F /* Staging */,
 				411682AB8AA74B17B9EDA5BA /* Lan */,
+=======
+>>>>>>> 10ce715f3b6f312fa42dd9529bfff682a6bb8ca4
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1708,8 +1725,11 @@
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
 				2D02E4981E0B4A5E006451C7 /* Release */,
+<<<<<<< HEAD
 				23813603A34847D882BC34EE /* Staging */,
 				DEF96615EFDB4D94ABA5779C /* Lan */,
+=======
+>>>>>>> 10ce715f3b6f312fa42dd9529bfff682a6bb8ca4
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1719,8 +1739,11 @@
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
 				2D02E49A1E0B4A5E006451C7 /* Release */,
+<<<<<<< HEAD
 				1E2681391F0A4BBCAED241B4 /* Staging */,
 				7C835871CED04F56B22EB5AE /* Lan */,
+=======
+>>>>>>> 10ce715f3b6f312fa42dd9529bfff682a6bb8ca4
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1730,8 +1753,11 @@
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
 				83CBBA211A601CBA00E9B192 /* Release */,
+<<<<<<< HEAD
 				2D5B94A7C9594BD7A25B62C6 /* Staging */,
 				EC0939CB9D7E4E1282B4D340 /* Lan */,
+=======
+>>>>>>> 10ce715f3b6f312fa42dd9529bfff682a6bb8ca4
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
